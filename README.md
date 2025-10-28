@@ -7,7 +7,7 @@ Votre collègue a besoin de trouver `x` tel que `f(x) = 454088092903`.
 Le flag est `FCSC{<x>}`, avec `<x>` la valeur de `x` en écriture décimale.
 
 
-Auteur : David / [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteur : David / [Cryptanalyse](https://x.com/Cryptanalyse)
 
 Origine : [Quarantaine](https://hackropole.fr/fr/challenges/hardware/fcsc2020-hardware-quarantaine/)
 
